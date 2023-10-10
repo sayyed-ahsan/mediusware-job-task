@@ -1,0 +1,32 @@
+.custom-button {
+    background-color: #46139f;
+    color: white;
+}
+
+.custom-button:hover {
+    background-color: #46139f;
+    color: white;
+}
+
+.custom-buttonB {
+    background-color: #ff7f50;
+    color: white;
+}
+
+.custom-buttonB:hover {
+    background-color: #ff7f50;
+    color: white;
+}
+
+.custom-buttonC {
+    background-color: #ffffff;
+    border: 2px solid #46139f;
+    padding: 5px 12px;
+
+}
+
+.custom-buttonC:hover {
+    background-color: #ffffff;
+    border: 2px solid #46139f;
+    padding: 5px 12px;
+}
